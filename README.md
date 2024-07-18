@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @shouryaraj-elmo
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning work and life balance
-- 💞️ I’m looking to collaborate on relaxation with tech
-- 📫 How to reach me strava
-- 😄 Pronouns: 
-- ⚡ Fun fact: code and sleep
+- Enjoy your life
 
 <!---
 shouryaraj-elmo/shouryaraj-elmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
